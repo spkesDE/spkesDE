@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning c#
 - 
 - 
-- [Stats](https://github-readme-stats.vercel.app/api?username=spkesDE)]
+![Stats](https://github-readme-stats.vercel.app/api?username=spkesDE)]
