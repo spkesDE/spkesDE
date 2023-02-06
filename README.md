@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm spkesDE</h1>
-<h3 align="center">A paramedic that like to programm in the free time</h3>
+<h3 align="center">A paramedic who enjoys programming in his spare time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spkesde&label=Profile%20views&color=0e75b6&style=flat" alt="spkesde" /> </p>
 
