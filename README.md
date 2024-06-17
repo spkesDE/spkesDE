@@ -10,4 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=spkesDE&count_private=true&show_icons=true&theme=radical" alt="spkesde" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=spkes&api_domain=wakapi.spkes.dev&bg_color=30,e96443,904e95&langs_count=8&title_color=fff&text_color=fff&custom_title=All%20time%20stats%20since%202022&layout=compact" alt="spkesde" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=spkes&api_domain=wakapi.spkes.dev&bg_color=30,e96443,904e95&langs_count=8&title_color=fff&display_format=percent&text_color=fff&custom_title=Languages&layout=compact" alt="spkesde" /></p>
